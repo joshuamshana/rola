@@ -169,7 +169,7 @@ function ItemsArray({ item, index, removeItem, updateItem }) {
             width: 0,
             ...inputStyle()
           }}
-          keyboardType={"numberic"}
+          keyboardType={"numeric"}
           placeholder={"Quantity"}
         />
         <Pressable
